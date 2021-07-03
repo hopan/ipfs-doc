@@ -21,3 +21,5 @@ ipfs key gen SecondKey
 ipfs name publish --key=SecondKey /ipfs/QmUVTKsrYJpaxUT7dr9FpKq6AoKHhEM7eG1ZHGL56haKLG
 ```
 
+## DNSLink
+
