@@ -34,3 +34,6 @@ dig +noall +answer TXT \_dnslink.docs.ipfs.io
 ```
 
 More detail [dnslink.dev](https://dnslink.dev/)
+
+## eth.link
+https://eth.link/
