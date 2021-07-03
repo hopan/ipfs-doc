@@ -33,4 +33,4 @@ dig +noall +answer TXT \_dnslink.docs.ipfs.io
 > \_dnslink.docs.ipfs.io. 30 IN TXT "dnslink=/ipfs/bafybeieenxnjdjm7vbr5zdwemaun4sw4iy7h4imlvvl433q6gzjg6awdpq"
 ```
 
-More detail [https://dnslink.dev/](dnslink.dev)
+More detail (https://dnslink.dev/)[dnslink.dev]
